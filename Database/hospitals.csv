@@ -1,0 +1,21 @@
+hospital_ID,name,street_address,locality,city,state,type
+1,Mayo Clinic,44 Forest Dale Crossing,Adarsh Nagar,Washington,District of Columbia,government
+2,Cleveland Clinic,37 Goodland Circle,Dhaka,Sacramento,California,private
+3,Massachusetts General Hospital,89 Esker Pass,Pitam Pura,Nashville,Tennessee,private
+4,Johns Hopkins Hospital,6 Moulton Lane,Shalimar Bagh,Orlando,Florida,government
+5,UCLA Medical Center,42947 Steensland Pass,Dhaka,Memphis,Tennessee,private
+6,New York-Presbyterian University Hospital of Columbia and Cornell,9972 Canary Alley,Bawana,San Bernardino,California,private
+7,UCSF Medical Center,15525 Lillian Parkway,Karala,Washington,District of Columbia,government
+8,Northwestern Memorial Hospital,05 2nd Trail,Keshav Puram,Miami,Florida,government
+9,Hospitals of the University of Pennsylvania-Penn Presbyterian,86 Talisman Crossing,Shalimar Bagh,Largo,Florida,government
+10,NYU Langone Medical Center,619 3rd Terrace,Kingsway Camp,Jersey City,New Jersey,government
+11,Barnes-Jewish Hospital,339 Emmet Hill,Model Town,Fort Lauderdale,Florida,private
+12,UPMC Presbyterian Shadyside,13 Lindbergh Crossing,Adarsh Nagar,Philadelphia,Pennsylvania,government
+13,Brigham and Women's Hospital,7 Mockingbird Road,Model Town,Miami Beach,Florida,government
+14,Stanford Health Care-Stanford Hospital,2 Mendota Hill,Jahangirpuri,Oklahoma City,Oklahoma,government
+15,Mount Sinai Hospital,2 Mendota Avenue,Rithala,Honolulu,Hawaii,government
+16,Duke University Hospital,3826 Raven Avenue,Narela,Winston Salem,North Carolina,private
+17,Cedars-Sinai Medical Center,95169 Grayhawk Court,Model Town,Sacramento,California,government
+18,University of Michigan Hospitals and Health Centers,4 Laurel Way,Karala,Sacramento,California,private
+19,Houston Methodist Hospital,185 Randy Trail,Kingsway Camp,Pensacola,Florida,government
+20,University of Colorado Hospital,176 Commercial Pass,Rani Bagh,Memphis,Tennessee,government

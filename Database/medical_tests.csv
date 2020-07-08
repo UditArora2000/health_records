@@ -1,0 +1,13 @@
+test_ID,test_name,prerequisites
+1,CT scan,No eating or drinking for 4 hours before test
+2,X-ray,Wear protective gloves and apron
+3,Urine test,Avoid intense athletic training or heavy physical work before the test
+4,Blood test,Avoiding all food and beverages (except for water) for 8 to 12 hours prior to the test
+5,Angiogram,Don\'t eat or drink anything after midnight before your angiogram
+6,Endoscopy,You will need to stop drinking and eating up to eight hours before your endoscopy
+7,Stool Test,Urinate before collecting the stool
+8,Blood Pressure,Avoid food caffeine tobacco and alcohol for 30 minutes before taking a measurement. Go to the toilet first.
+9,Pelvic Exam,Avoid vaginal intercourse or  inserting anything into your vagina and douching or at least 24 hours before your pelvic exam
+10,Liver Biopsy ,No eating or drinking for 6 to 8 hours before test
+11,Abdominal Ultrasound,Eat fat free meal the evening before the test
+12,Adenosine Deaminase Test,Consult your doctor if you are on any medication

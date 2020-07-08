@@ -1,0 +1,21 @@
+lab_ID,name,street_address,locality,city,state,list_of_tests
+1,Medilife International Lab,999 North Pass,Rithala,Anaheim,California,CT Scan Pelvic Exam
+2,Healwell24,1047 Sommers Road,Pitam Pura,Santa Fe,New Mexico,CT Scan Urine test
+3,Zoylo Digihealth,4495 Tennessee Point,Shalimar Bagh,Milwaukee,Wisconsin,Angiogram X ray
+4,Janta Pathology Lab,26655 Delladonna Park,Rohini Sub City,Jacksonville,Florida,CT Scan Pelvic Exam
+5,SRL Diagnostics,5 American Ash Place,Bawana,Duluth,Georgia,Blood Test Angiogram X ray
+6,Metropolis Healthcare,0461 Susan Hill,Pitam Pura,Schenectady,New York,Urine Test Blood Test
+7,Lifeview Diagnostics,185 Schurz Parkway,Karala,Katy,Texas,Urine Test Blood Test
+8,Verma Pathology Lab,3 Cardinal Avenue,Kingsway Camp,Fullerton,California,CT Scan Pelvic Exam
+9,Life Care Pathology Lab,8271 Hermina Hill,Rani Bagh,Augusta,Georgia,CT Scan Urine Test X ray
+10,Khatri Diagnostics,45346 Lukken Place,Kohat Enclave,Henderson,Nevada,Blood Test Angiogram X ray
+11,Gopal Pathology Lab,6 Dwight Circle,Kingsway Camp,Santa Fe,New Mexico,Blood Test Angiogram X ray
+12,Paras Pathology,8 Ilene Center,Keshav Puram,New Orleans,Louisiana,Angiogram X ray
+13,Apollo Pathology Lab,1 Eagle Crest Alley,Kohat Enclave,Portland,Oregon,Angiogram X ray
+14,Galaxy Pathology Lab,88 Trailsway Drive,Rani Bagh,Albuquerque,New Mexico,CT Scan Urine test
+15,Kotak Lab,17965 Butterfield Road,Narela,Pueblo,Colorado,CT Scan Pelvic Exam
+16,Sanjeevani Pathology Lab,142 2nd Terrace,Dhaka,Louisville,Kentucky,CT Scan Pelvic Exam
+17,Nagesh Diagnostics,16 Laurel Place,Begum Pur,Falls Church,Virginia,Blood Test Angiogram X ray
+18,B-Health Care,4696 Browning Circle,Dhaka,El Paso,Texas,Urine Test Blood Test
+19,Saburbun Diagnostics,0 Bashford Crossing,Kohat Enclave,Indianapolis,Indiana,CT Scan Urine Test X ray
+20,Patil Path Labs,68050 Bunting Drive,Begum Pur,Grand Rapids,Michigan,CT Scan Pelvic Exam

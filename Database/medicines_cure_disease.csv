@@ -1,0 +1,26 @@
+disease_name,medicine_name,,list_of_medicines
+dengue,paracetamol,,paracetamol
+adenovirus,cidofovir,,cidofovir and ribavirin
+common cold,cetirizine,,cetirizine
+blood clots,warfarin,,warfarin aspirin and aggrenox
+gallstone,ursodiol,,ursodiol
+STD,azithromycin,,azithromycin and doxycycline
+typhoid,azithromycin,,azithromycin and ceftriaxone
+chickenpox,acyclovir,,acyclovir and privigen
+scabies,permethrin cream,,permethrin cream and crotamiton
+hepatitis A,gamastan s/d,,GamaSTAN S/D
+rotavirus,ibuprofen,,ibuprofen
+conjunctivitis,moxifloxacin,,moxifloxacin and erythromycin
+mumps,ibuprofen,,ibuprofen and acetaminophen
+influenza,tamiflu,,tamiflu and relenza
+sore throat,ibuprofen,,ibuprofen
+adenovirus,ribavirin,,
+common cold,asprin,,
+common cold,aggrenox,,
+STD,doxycycline,,
+typhoid,ceftriaxone,,
+chickenpox,privigen,,
+scabies, crotamiton,,
+conjunctivitis,erythromycin,,
+mumps,acetaminophen,,
+influenza,relenza,,

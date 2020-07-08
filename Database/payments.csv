@@ -1,0 +1,1001 @@
+pharmacy_ID,amount,pd,list_of_medicines,record_ID,patient_ID
+11,2760,07-01-2020,acyclovir and privigen,873,175
+14,4250,23-11-2019,tamiflu and relenza,661,1
+18,2330,25-05-2019,permethrin cream and crotamiton,144,27
+6,2180,11-12-2019,moxifloxacin and erythromycin,393,125
+3,4960,19-08-2019,acyclovir and privigen,416,350
+17,2080,18-07-2019,gamastan s/d,543,230
+17,4090,20-06-2019,moxifloxacin and erythromycin,747,58
+10,4060,13-12-2019,ibuprofen,386,19
+9,3380,10-10-2019,ibuprofen,512,307
+3,390,28-11-2019,cidofovir and ribavirin,957,177
+5,4030,01-11-2019,ibuprofen and acetaminophen,243,183
+9,1180,30-04-2019,cidofovir and ribavirin,683,61
+9,3320,26-01-2020,tamiflu and relenza,839,45
+1,3910,25-09-2019,cidofovir and ribavirin,29,232
+12,3190,18-06-2019,acyclovir and privigen,987,125
+20,4630,18-07-2019,azithromycin and ceftriaxone,498,167
+17,3350,17-04-2020,paracetamol,44,144
+17,3450,07-05-2019,permethrin cream and crotamiton,139,366
+7,2390,05-02-2020,cidofovir and ribavirin,324,8
+3,4400,09-04-2020,ursodiol,178,258
+20,3690,20-11-2019,cidofovir and ribavirin,89,237
+10,1610,13-06-2019,azithromycin and ceftriaxone,68,87
+2,3000,30-03-2020,ibuprofen,744,156
+20,930,14-04-2020,azithromycin and doxycycline,145,52
+2,2960,20-11-2019,gamastan s/d,704,86
+3,3860,10-03-2020,permethrin cream and crotamiton,876,91
+9,3330,22-01-2020,moxifloxacin and erythromycin,423,57
+7,3180,14-03-2020,moxifloxacin and erythromycin,162,220
+1,3500,12-07-2019,ursodiol,983,88
+6,2660,06-11-2019,permethrin cream and crotamiton,970,197
+2,140,21-09-2019,ibuprofen,996,364
+3,130,04-05-2019,azithromycin and ceftriaxone,232,358
+20,2560,11-09-2019,gamastan s/d,735,162
+20,3460,11-02-2020,acyclovir and privigen,653,307
+1,4980,04-12-2019,permethrin cream and crotamiton,271,231
+12,2330,04-08-2019,warfarin aspirin and aggrenox,529,210
+16,4130,27-02-2020,paracetamol,916,263
+5,4510,17-03-2020,ursodiol,81,377
+6,200,19-06-2019,ibuprofen,519,313
+2,200,18-09-2019,acyclovir and privigen,456,110
+7,1520,27-09-2019,ibuprofen and acetaminophen,964,239
+6,4870,28-05-2019,azithromycin and doxycycline,974,57
+5,1890,05-01-2020,azithromycin and doxycycline,920,309
+13,3790,12-10-2019,gamastan s/d,374,366
+3,3130,12-03-2020,tamiflu and relenza,17,235
+7,780,12-03-2020,cetirizine,563,357
+9,3770,06-07-2019,azithromycin and ceftriaxone,652,299
+10,4440,04-03-2020,azithromycin and doxycycline,790,9
+11,110,28-06-2019,ibuprofen,488,175
+16,1200,02-12-2019,gamastan s/d,344,363
+12,4150,15-08-2019,ursodiol,477,284
+10,2220,16-08-2019,ibuprofen,150,323
+7,3210,18-09-2019,azithromycin and ceftriaxone,196,386
+7,4490,16-12-2019,cetirizine,986,316
+8,2410,25-11-2019,warfarin aspirin and aggrenox,666,370
+1,2480,19-09-2019,permethrin cream and crotamiton,527,383
+2,3120,28-11-2019,ibuprofen and acetaminophen,190,265
+13,2510,21-11-2019,permethrin cream and crotamiton,480,400
+17,4960,26-12-2019,gamastan s/d,328,306
+19,1910,30-09-2019,permethrin cream and crotamiton,593,85
+11,3850,17-01-2020,moxifloxacin and erythromycin,707,370
+3,2960,19-09-2019,cetirizine,528,373
+17,430,15-07-2019,tamiflu and relenza,243,369
+13,480,15-09-2019,warfarin aspirin and aggrenox,346,314
+14,1630,30-03-2020,azithromycin and doxycycline,415,372
+6,4050,01-02-2020,warfarin aspirin and aggrenox,378,232
+18,2560,21-01-2020,azithromycin and doxycycline,900,248
+14,3350,18-07-2019,azithromycin and ceftriaxone,430,253
+4,4600,31-07-2019,paracetamol,581,74
+18,4060,23-10-2019,permethrin cream and crotamiton,831,194
+6,2250,30-08-2019,ibuprofen and acetaminophen,666,14
+18,1240,21-04-2020,ibuprofen and acetaminophen,665,272
+16,1690,16-09-2019,acyclovir and privigen,845,339
+9,2430,30-05-2019,azithromycin and doxycycline,590,49
+6,4040,24-08-2019,ibuprofen,133,115
+12,1280,14-02-2020,tamiflu and relenza,283,34
+1,1500,29-07-2019,cidofovir and ribavirin,436,115
+12,2490,04-04-2020,gamastan s/d,909,319
+13,3560,18-10-2019,moxifloxacin and erythromycin,525,287
+14,4890,15-03-2020,moxifloxacin and erythromycin,878,320
+15,3800,18-11-2019,ursodiol,618,65
+17,810,17-11-2019,paracetamol,106,44
+20,100,04-01-2020,gamastan s/d,873,202
+1,3360,08-09-2019,azithromycin and ceftriaxone,279,304
+20,1880,23-06-2019,permethrin cream and crotamiton,958,254
+17,1050,25-02-2020,paracetamol,528,40
+16,3370,12-04-2020,acyclovir and privigen,695,177
+8,3070,21-11-2019,azithromycin and doxycycline,382,81
+9,2590,07-01-2020,cetirizine,411,385
+4,210,04-07-2019,azithromycin and ceftriaxone,529,48
+17,2770,06-06-2019,tamiflu and relenza,783,257
+2,4800,27-06-2019,tamiflu and relenza,753,35
+7,3270,22-01-2020,permethrin cream and crotamiton,4,96
+10,2790,11-12-2019,gamastan s/d,621,267
+8,1100,03-02-2020,cetirizine,22,322
+13,1980,26-09-2019,moxifloxacin and erythromycin,357,10
+16,4200,28-02-2020,cetirizine,71,1
+5,3220,01-06-2019,acyclovir and privigen,313,219
+14,3600,30-05-2019,tamiflu and relenza,122,180
+17,1560,22-03-2020,ibuprofen,6,23
+14,3520,20-01-2020,acyclovir and privigen,336,199
+13,4130,30-06-2019,permethrin cream and crotamiton,86,266
+10,530,22-06-2019,cidofovir and ribavirin,492,248
+17,1160,09-03-2020,permethrin cream and crotamiton,671,217
+6,1690,10-12-2019,acyclovir and privigen,423,75
+5,1250,03-12-2019,permethrin cream and crotamiton,490,383
+15,2060,20-01-2020,ursodiol,573,362
+15,2830,14-10-2019,permethrin cream and crotamiton,542,257
+10,1570,27-09-2019,cetirizine,593,296
+1,1700,26-01-2020,paracetamol,887,307
+5,2480,10-09-2019,warfarin aspirin and aggrenox,905,129
+18,4270,12-04-2020,azithromycin and doxycycline,600,326
+20,3040,14-07-2019,warfarin aspirin and aggrenox,828,339
+19,4520,20-08-2019,cidofovir and ribavirin,544,278
+10,4900,23-09-2019,ibuprofen,190,377
+14,3170,01-10-2019,paracetamol,612,299
+18,1180,29-05-2019,ibuprofen,103,22
+9,1620,04-06-2019,cetirizine,324,12
+10,2330,08-08-2019,ursodiol,482,222
+14,3420,08-07-2019,gamastan s/d,388,26
+18,150,31-10-2019,acyclovir and privigen,87,7
+18,2890,31-07-2019,warfarin aspirin and aggrenox,826,265
+20,1740,10-11-2019,gamastan s/d,71,335
+11,3380,12-02-2020,ibuprofen and acetaminophen,573,83
+18,1740,20-05-2019,ibuprofen,333,121
+11,1240,24-06-2019,moxifloxacin and erythromycin,84,112
+11,1240,27-03-2020,ibuprofen,184,54
+13,880,06-01-2020,moxifloxacin and erythromycin,291,87
+5,4450,08-06-2019,azithromycin and doxycycline,660,116
+6,4460,15-07-2019,ibuprofen and acetaminophen,925,161
+5,4480,20-09-2019,ibuprofen and acetaminophen,750,363
+11,3770,22-02-2020,cidofovir and ribavirin,811,249
+10,460,26-09-2019,permethrin cream and crotamiton,45,229
+1,2510,06-06-2019,moxifloxacin and erythromycin,451,128
+13,3780,04-10-2019,permethrin cream and crotamiton,600,336
+19,1170,23-03-2020,azithromycin and doxycycline,309,83
+12,3810,28-03-2020,warfarin aspirin and aggrenox,298,156
+1,2490,13-12-2019,cidofovir and ribavirin,691,101
+10,3330,03-01-2020,warfarin aspirin and aggrenox,92,81
+4,720,13-09-2019,tamiflu and relenza,107,293
+19,3830,07-12-2019,azithromycin and ceftriaxone,754,193
+2,3360,23-04-2020,warfarin aspirin and aggrenox,162,364
+4,520,21-05-2019,ibuprofen and acetaminophen,995,344
+9,100,30-09-2019,acyclovir and privigen,264,381
+9,3900,25-12-2019,moxifloxacin and erythromycin,859,170
+8,4390,18-08-2019,tamiflu and relenza,41,212
+19,3620,17-07-2019,cetirizine,941,49
+2,2480,22-08-2019,moxifloxacin and erythromycin,432,301
+17,2470,01-01-2020,ibuprofen,728,186
+7,3380,05-02-2020,cetirizine,740,31
+2,1190,24-07-2019,ibuprofen,101,140
+3,4970,08-10-2019,azithromycin and ceftriaxone,186,183
+11,410,23-02-2020,azithromycin and doxycycline,685,311
+8,3480,16-02-2020,ibuprofen and acetaminophen,434,359
+1,730,23-05-2019,azithromycin and ceftriaxone,173,305
+17,4840,15-04-2020,permethrin cream and crotamiton,667,371
+1,390,23-12-2019,ursodiol,569,141
+16,1680,28-06-2019,moxifloxacin and erythromycin,790,33
+10,2350,15-01-2020,gamastan s/d,763,112
+14,4470,11-09-2019,paracetamol,629,337
+4,3080,22-09-2019,acyclovir and privigen,740,86
+11,4350,09-02-2020,ibuprofen,562,300
+8,2540,06-03-2020,cidofovir and ribavirin,725,146
+10,4890,28-03-2020,ursodiol,583,156
+19,1890,11-04-2020,azithromycin and ceftriaxone,35,124
+7,2040,04-04-2020,ibuprofen,352,43
+15,2760,23-08-2019,cidofovir and ribavirin,702,374
+15,3050,20-01-2020,cidofovir and ribavirin,394,349
+16,4750,17-12-2019,ursodiol,358,352
+1,3430,18-03-2020,ibuprofen,268,111
+13,820,11-02-2020,ibuprofen and acetaminophen,465,181
+18,1400,22-10-2019,cetirizine,886,264
+14,800,27-12-2019,moxifloxacin and erythromycin,867,317
+18,2940,05-08-2019,acyclovir and privigen,967,287
+7,4210,09-08-2019,ibuprofen and acetaminophen,274,54
+12,3470,21-07-2019,acyclovir and privigen,222,88
+18,1660,07-11-2019,ibuprofen,561,374
+16,2460,21-04-2020,warfarin aspirin and aggrenox,245,111
+1,1090,19-03-2020,ibuprofen,47,75
+9,390,30-05-2019,cidofovir and ribavirin,262,10
+20,3520,22-08-2019,acyclovir and privigen,382,92
+9,1770,06-02-2020,cetirizine,209,97
+10,3270,16-02-2020,ibuprofen,273,26
+4,4280,18-02-2020,acyclovir and privigen,783,180
+10,2640,29-02-2020,azithromycin and doxycycline,211,400
+17,600,31-01-2020,permethrin cream and crotamiton,353,308
+19,1810,24-11-2019,cidofovir and ribavirin,814,241
+17,2200,25-08-2019,acyclovir and privigen,625,17
+10,4680,02-11-2019,ibuprofen,695,177
+9,1140,19-12-2019,azithromycin and ceftriaxone,72,86
+18,1990,05-10-2019,cetirizine,822,34
+12,1180,27-04-2019,gamastan s/d,559,31
+1,580,22-04-2020,paracetamol,551,285
+17,530,26-07-2019,acyclovir and privigen,963,377
+19,2540,06-03-2020,moxifloxacin and erythromycin,294,249
+11,1890,28-09-2019,moxifloxacin and erythromycin,417,223
+16,3570,14-03-2020,acyclovir and privigen,453,168
+12,1300,14-10-2019,moxifloxacin and erythromycin,991,234
+5,680,13-02-2020,gamastan s/d,717,246
+13,2560,06-04-2020,azithromycin and ceftriaxone,348,170
+15,4880,29-07-2019,moxifloxacin and erythromycin,466,40
+11,420,11-03-2020,permethrin cream and crotamiton,643,273
+3,4600,24-08-2019,warfarin aspirin and aggrenox,138,123
+18,3470,23-11-2019,warfarin aspirin and aggrenox,493,347
+10,2720,21-08-2019,permethrin cream and crotamiton,318,188
+14,2280,05-02-2020,gamastan s/d,175,34
+5,3160,25-01-2020,ibuprofen,510,314
+6,2080,15-03-2020,tamiflu and relenza,569,342
+11,750,24-03-2020,gamastan s/d,88,103
+8,4420,14-05-2019,cidofovir and ribavirin,461,240
+18,4870,17-09-2019,ibuprofen,582,52
+11,2800,29-07-2019,gamastan s/d,612,346
+10,4130,12-09-2019,azithromycin and ceftriaxone,840,12
+4,970,06-03-2020,gamastan s/d,175,214
+15,1640,05-11-2019,cetirizine,686,78
+7,1310,23-07-2019,ibuprofen,860,3
+10,1570,29-09-2019,cetirizine,521,190
+8,1570,26-03-2020,ibuprofen and acetaminophen,354,331
+7,3410,16-06-2019,moxifloxacin and erythromycin,323,163
+17,4380,23-06-2019,ursodiol,133,398
+15,3900,06-07-2019,cidofovir and ribavirin,562,242
+1,470,12-02-2020,acyclovir and privigen,271,28
+12,4990,30-12-2019,gamastan s/d,403,187
+10,1780,02-04-2020,cidofovir and ribavirin,53,109
+13,110,27-03-2020,gamastan s/d,194,154
+6,2450,04-07-2019,warfarin aspirin and aggrenox,23,310
+7,2050,10-03-2020,cetirizine,393,49
+10,440,04-07-2019,ibuprofen,783,221
+13,4270,03-07-2019,cidofovir and ribavirin,911,322
+16,470,29-02-2020,ibuprofen,206,162
+4,4220,16-07-2019,ibuprofen,758,22
+12,1740,06-05-2019,acyclovir and privigen,766,335
+3,1150,16-03-2020,paracetamol,369,277
+9,670,03-12-2019,cidofovir and ribavirin,418,53
+1,2380,24-01-2020,ibuprofen,740,225
+18,2460,30-05-2019,permethrin cream and crotamiton,921,196
+2,4980,18-02-2020,ursodiol,974,169
+4,3250,07-08-2019,permethrin cream and crotamiton,359,277
+20,4610,11-08-2019,acyclovir and privigen,856,193
+17,3570,31-01-2020,cidofovir and ribavirin,860,397
+7,1370,10-12-2019,paracetamol,87,1
+16,3860,27-06-2019,cetirizine,878,196
+6,2990,22-03-2020,ibuprofen and acetaminophen,138,387
+13,2180,01-05-2019,tamiflu and relenza,787,111
+5,4370,11-06-2019,permethrin cream and crotamiton,348,275
+6,3710,28-07-2019,tamiflu and relenza,576,343
+6,1850,28-08-2019,azithromycin and doxycycline,726,313
+2,640,18-09-2019,azithromycin and doxycycline,852,102
+6,1250,29-09-2019,ursodiol,206,211
+17,4280,15-10-2019,paracetamol,537,135
+1,290,12-09-2019,cetirizine,129,167
+6,3230,24-09-2019,tamiflu and relenza,546,124
+1,1320,07-08-2019,moxifloxacin and erythromycin,763,303
+12,1200,08-07-2019,azithromycin and doxycycline,723,85
+18,4500,08-10-2019,ibuprofen,677,359
+9,2230,29-02-2020,ibuprofen,32,88
+20,4250,26-08-2019,acyclovir and privigen,848,239
+17,2750,20-11-2019,gamastan s/d,719,82
+7,2740,22-07-2019,ursodiol,880,242
+20,1640,28-08-2019,permethrin cream and crotamiton,634,207
+20,1990,24-09-2019,ursodiol,720,136
+15,4120,29-08-2019,cidofovir and ribavirin,295,60
+14,2410,20-05-2019,tamiflu and relenza,451,367
+5,2450,07-08-2019,moxifloxacin and erythromycin,393,302
+7,2270,30-10-2019,ibuprofen and acetaminophen,647,311
+14,1000,18-07-2019,warfarin aspirin and aggrenox,429,37
+7,4400,01-11-2019,moxifloxacin and erythromycin,314,395
+16,1690,07-06-2019,moxifloxacin and erythromycin,15,224
+14,3130,20-01-2020,cetirizine,451,15
+12,3890,30-05-2019,ibuprofen and acetaminophen,273,363
+19,2610,27-06-2019,cidofovir and ribavirin,798,91
+7,1900,30-11-2019,ibuprofen,492,315
+8,430,23-05-2019,permethrin cream and crotamiton,572,204
+3,1550,10-06-2019,warfarin aspirin and aggrenox,467,286
+4,1080,01-06-2019,azithromycin and ceftriaxone,692,62
+18,3080,06-12-2019,paracetamol,91,270
+16,3760,12-09-2019,acyclovir and privigen,788,16
+6,3110,15-12-2019,tamiflu and relenza,212,304
+1,3700,16-02-2020,paracetamol,798,247
+20,2640,01-10-2019,azithromycin and ceftriaxone,279,128
+16,1260,30-03-2020,ibuprofen,385,352
+4,410,26-06-2019,ursodiol,553,2
+16,970,23-07-2019,permethrin cream and crotamiton,788,247
+7,3040,16-04-2020,warfarin aspirin and aggrenox,785,368
+16,2300,28-06-2019,gamastan s/d,288,348
+7,4890,24-09-2019,cidofovir and ribavirin,543,240
+8,3130,01-12-2019,ibuprofen,888,255
+9,650,04-05-2019,permethrin cream and crotamiton,362,30
+2,4330,03-08-2019,paracetamol,699,348
+17,790,09-06-2019,ibuprofen,225,264
+3,4940,01-11-2019,gamastan s/d,973,139
+6,760,10-04-2020,warfarin aspirin and aggrenox,418,313
+20,2190,03-08-2019,paracetamol,279,280
+12,540,15-06-2019,ibuprofen and acetaminophen,878,195
+9,2010,01-09-2019,ibuprofen,131,194
+5,150,13-09-2019,cetirizine,865,6
+10,720,19-05-2019,tamiflu and relenza,846,155
+13,390,14-02-2020,moxifloxacin and erythromycin,314,72
+9,2970,27-10-2019,permethrin cream and crotamiton,546,169
+11,3210,21-01-2020,gamastan s/d,830,153
+5,3410,14-09-2019,ibuprofen and acetaminophen,601,3
+7,530,28-05-2019,azithromycin and doxycycline,860,365
+14,1530,07-04-2020,ibuprofen,829,86
+15,2720,10-07-2019,ibuprofen and acetaminophen,21,355
+8,1510,09-04-2020,cidofovir and ribavirin,416,171
+9,3080,05-08-2019,azithromycin and doxycycline,653,105
+6,2170,18-10-2019,azithromycin and doxycycline,740,394
+5,1450,13-11-2019,gamastan s/d,295,253
+17,2000,11-02-2020,permethrin cream and crotamiton,527,285
+8,430,20-08-2019,ibuprofen and acetaminophen,57,386
+15,4630,25-11-2019,cidofovir and ribavirin,880,322
+5,4060,24-08-2019,ibuprofen,890,337
+1,4020,08-10-2019,paracetamol,79,102
+10,4270,12-08-2019,ibuprofen and acetaminophen,964,42
+10,380,05-01-2020,gamastan s/d,664,119
+13,2080,24-12-2019,ibuprofen and acetaminophen,719,38
+4,3440,05-12-2019,cidofovir and ribavirin,89,109
+18,180,26-06-2019,paracetamol,551,288
+3,3690,31-08-2019,warfarin aspirin and aggrenox,454,207
+18,750,07-08-2019,ursodiol,747,79
+3,3360,07-06-2019,ibuprofen,136,104
+10,2750,23-04-2020,cetirizine,335,68
+7,2650,19-09-2019,paracetamol,622,181
+16,1160,04-01-2020,acyclovir and privigen,807,254
+20,1410,25-09-2019,permethrin cream and crotamiton,34,297
+20,2440,13-01-2020,gamastan s/d,6,46
+10,3010,24-11-2019,acyclovir and privigen,56,207
+1,4490,11-09-2019,gamastan s/d,390,71
+4,2780,08-03-2020,acyclovir and privigen,203,254
+12,5000,09-05-2019,azithromycin and doxycycline,811,154
+19,4030,12-02-2020,ibuprofen and acetaminophen,301,214
+6,4200,04-12-2019,acyclovir and privigen,997,54
+11,2260,12-08-2019,paracetamol,243,379
+11,1430,21-05-2019,gamastan s/d,283,109
+12,2690,12-01-2020,cetirizine,695,396
+19,1540,25-07-2019,paracetamol,778,95
+5,220,01-07-2019,permethrin cream and crotamiton,104,187
+5,4700,19-06-2019,ibuprofen,232,273
+9,3670,16-11-2019,ibuprofen and acetaminophen,966,120
+14,4980,09-07-2019,tamiflu and relenza,122,349
+9,4520,28-08-2019,moxifloxacin and erythromycin,590,100
+10,4550,27-04-2019,tamiflu and relenza,377,285
+6,2610,05-06-2019,permethrin cream and crotamiton,738,18
+7,3200,06-07-2019,ibuprofen and acetaminophen,510,301
+4,280,28-10-2019,permethrin cream and crotamiton,452,184
+5,1380,06-05-2019,ibuprofen and acetaminophen,380,93
+11,4470,23-04-2020,cidofovir and ribavirin,309,270
+5,1010,03-11-2019,cetirizine,797,200
+10,2530,12-01-2020,paracetamol,751,175
+18,1640,20-03-2020,azithromycin and doxycycline,93,362
+10,420,08-02-2020,ibuprofen,392,129
+20,4720,11-03-2020,ibuprofen,244,258
+20,2930,03-03-2020,ibuprofen and acetaminophen,238,256
+3,3400,30-08-2019,ibuprofen,334,348
+4,3410,08-10-2019,ibuprofen,266,9
+17,1220,22-08-2019,acyclovir and privigen,217,247
+16,1350,07-11-2019,cetirizine,196,255
+1,170,17-09-2019,gamastan s/d,337,71
+20,520,03-09-2019,paracetamol,576,258
+15,4660,19-01-2020,ibuprofen,810,281
+2,4060,04-11-2019,azithromycin and doxycycline,186,249
+12,4440,15-10-2019,tamiflu and relenza,590,352
+14,4980,01-05-2019,paracetamol,107,187
+11,4230,16-06-2019,moxifloxacin and erythromycin,344,94
+18,1450,30-07-2019,tamiflu and relenza,185,66
+16,2550,29-10-2019,cetirizine,899,283
+14,920,28-02-2020,moxifloxacin and erythromycin,967,264
+4,3020,11-11-2019,ursodiol,280,166
+14,3160,29-05-2019,cidofovir and ribavirin,793,342
+12,1260,18-10-2019,paracetamol,568,293
+18,3940,14-10-2019,warfarin aspirin and aggrenox,801,350
+12,4870,15-07-2019,cetirizine,605,75
+19,4600,24-07-2019,warfarin aspirin and aggrenox,317,326
+7,4040,16-04-2020,azithromycin and doxycycline,946,60
+7,3130,15-05-2019,gamastan s/d,89,192
+6,590,02-07-2019,permethrin cream and crotamiton,274,164
+18,1500,27-03-2020,ursodiol,31,379
+19,4540,16-01-2020,azithromycin and doxycycline,967,198
+3,960,13-09-2019,cetirizine,295,284
+8,1660,07-01-2020,gamastan s/d,417,258
+4,1700,28-05-2019,azithromycin and ceftriaxone,651,84
+6,4320,02-07-2019,ibuprofen,621,290
+17,2000,09-10-2019,ibuprofen,204,37
+17,4120,04-08-2019,paracetamol,202,85
+19,130,21-11-2019,moxifloxacin and erythromycin,207,336
+7,3080,26-10-2019,moxifloxacin and erythromycin,491,83
+1,1670,10-10-2019,ibuprofen,566,217
+16,3320,26-10-2019,tamiflu and relenza,20,192
+4,690,19-07-2019,gamastan s/d,909,44
+7,2550,24-09-2019,azithromycin and doxycycline,73,283
+11,420,22-10-2019,paracetamol,666,254
+2,690,16-01-2020,azithromycin and ceftriaxone,261,153
+11,790,29-09-2019,ibuprofen,984,271
+11,1890,07-01-2020,cidofovir and ribavirin,728,297
+13,510,21-03-2020,permethrin cream and crotamiton,921,347
+6,4430,21-08-2019,cidofovir and ribavirin,501,113
+3,3770,12-07-2019,azithromycin and doxycycline,310,159
+1,1800,11-12-2019,acyclovir and privigen,518,184
+15,2960,29-12-2019,ibuprofen and acetaminophen,390,28
+18,5000,28-03-2020,ibuprofen,157,313
+17,1910,27-08-2019,ursodiol,868,38
+6,2390,03-05-2019,cetirizine,899,325
+19,3250,27-09-2019,ibuprofen,598,320
+11,4770,28-02-2020,azithromycin and ceftriaxone,130,100
+1,1590,22-02-2020,cetirizine,339,363
+13,340,03-07-2019,ibuprofen,488,121
+6,970,08-10-2019,acyclovir and privigen,538,93
+4,3730,23-11-2019,azithromycin and doxycycline,213,187
+8,4140,15-02-2020,moxifloxacin and erythromycin,649,332
+15,4230,15-09-2019,azithromycin and doxycycline,92,109
+10,3430,10-08-2019,azithromycin and ceftriaxone,109,109
+2,3750,04-08-2019,warfarin aspirin and aggrenox,331,345
+13,3080,30-11-2019,ibuprofen and acetaminophen,414,21
+15,4440,12-11-2019,azithromycin and ceftriaxone,171,351
+16,3260,23-12-2019,gamastan s/d,715,283
+18,2650,17-04-2020,moxifloxacin and erythromycin,900,365
+19,4450,16-03-2020,acyclovir and privigen,243,178
+2,990,15-11-2019,tamiflu and relenza,317,171
+20,1190,22-04-2020,azithromycin and ceftriaxone,408,298
+6,4380,27-04-2019,ibuprofen,565,400
+14,1100,24-04-2019,ibuprofen and acetaminophen,602,187
+4,1570,02-12-2019,ursodiol,475,318
+7,2940,23-07-2019,ibuprofen,399,174
+13,3050,17-04-2020,moxifloxacin and erythromycin,422,62
+16,540,08-07-2019,moxifloxacin and erythromycin,207,200
+17,1010,01-10-2019,ibuprofen and acetaminophen,827,301
+7,3070,12-04-2020,azithromycin and doxycycline,556,263
+3,270,28-09-2019,paracetamol,373,6
+8,520,13-03-2020,ursodiol,652,228
+16,1640,10-03-2020,permethrin cream and crotamiton,546,239
+9,1240,22-06-2019,permethrin cream and crotamiton,571,41
+10,2130,23-04-2020,moxifloxacin and erythromycin,630,353
+8,1710,03-10-2019,permethrin cream and crotamiton,868,320
+20,4990,12-10-2019,ibuprofen,733,178
+20,3000,24-02-2020,ursodiol,661,20
+1,3050,31-05-2019,ibuprofen,740,273
+19,3660,28-01-2020,gamastan s/d,206,81
+19,3680,28-03-2020,tamiflu and relenza,742,293
+14,370,12-08-2019,acyclovir and privigen,281,357
+3,1130,10-10-2019,ursodiol,439,179
+19,4640,14-05-2019,moxifloxacin and erythromycin,158,267
+13,4850,13-03-2020,cetirizine,676,128
+6,1370,14-09-2019,ursodiol,112,273
+4,3740,08-09-2019,warfarin aspirin and aggrenox,117,260
+19,290,29-11-2019,gamastan s/d,730,333
+14,1690,14-04-2020,moxifloxacin and erythromycin,127,253
+2,750,13-10-2019,ibuprofen,663,220
+20,2010,19-10-2019,azithromycin and doxycycline,989,379
+7,390,29-06-2019,cidofovir and ribavirin,631,3
+16,1190,11-09-2019,cetirizine,787,129
+6,3930,24-10-2019,ibuprofen and acetaminophen,355,305
+9,2130,10-05-2019,permethrin cream and crotamiton,621,130
+15,4080,12-02-2020,paracetamol,61,19
+19,3910,29-12-2019,warfarin aspirin and aggrenox,465,85
+10,560,03-03-2020,azithromycin and ceftriaxone,898,281
+20,2340,06-06-2019,gamastan s/d,367,352
+18,3680,27-05-2019,cetirizine,129,200
+20,3790,15-04-2020,permethrin cream and crotamiton,191,36
+4,2700,01-11-2019,acyclovir and privigen,141,52
+20,2760,16-08-2019,acyclovir and privigen,318,31
+7,1580,07-03-2020,cidofovir and ribavirin,135,196
+17,230,25-02-2020,cetirizine,34,228
+18,4160,24-01-2020,permethrin cream and crotamiton,896,132
+14,2870,09-11-2019,acyclovir and privigen,685,284
+11,2190,06-06-2019,cetirizine,409,58
+11,2250,01-09-2019,ursodiol,826,202
+5,210,30-08-2019,tamiflu and relenza,106,177
+8,430,29-11-2019,tamiflu and relenza,886,81
+13,4660,18-04-2020,ibuprofen,33,323
+8,4820,05-04-2020,azithromycin and ceftriaxone,292,77
+2,1110,08-10-2019,acyclovir and privigen,571,132
+16,2710,03-02-2020,ursodiol,924,164
+19,2310,09-10-2019,azithromycin and doxycycline,11,137
+15,970,07-12-2019,ibuprofen,796,372
+3,4180,04-04-2020,ibuprofen and acetaminophen,434,321
+12,3770,02-07-2019,warfarin aspirin and aggrenox,734,284
+12,2310,03-05-2019,permethrin cream and crotamiton,630,203
+6,2280,05-12-2019,ibuprofen and acetaminophen,234,279
+18,3940,03-05-2019,permethrin cream and crotamiton,364,147
+10,1030,05-11-2019,tamiflu and relenza,814,62
+19,4630,12-08-2019,paracetamol,247,166
+13,4150,12-05-2019,ibuprofen,706,17
+20,2090,10-07-2019,cetirizine,852,318
+10,330,07-06-2019,ibuprofen,899,320
+15,1480,11-03-2020,cidofovir and ribavirin,110,219
+8,130,28-03-2020,ibuprofen,707,286
+14,2650,08-02-2020,ursodiol,317,27
+20,820,27-09-2019,warfarin aspirin and aggrenox,264,138
+5,410,16-02-2020,acyclovir and privigen,158,330
+3,2350,27-06-2019,ursodiol,873,330
+19,2800,12-02-2020,cidofovir and ribavirin,620,191
+16,4240,24-05-2019,cetirizine,205,192
+8,3130,04-07-2019,acyclovir and privigen,736,186
+17,2730,02-08-2019,paracetamol,486,234
+10,740,03-01-2020,acyclovir and privigen,298,329
+8,3270,06-08-2019,tamiflu and relenza,25,256
+17,4420,11-11-2019,ibuprofen,193,227
+10,2940,27-07-2019,ibuprofen,621,90
+11,670,19-09-2019,ibuprofen,892,73
+1,390,01-09-2019,permethrin cream and crotamiton,935,356
+8,790,16-11-2019,tamiflu and relenza,854,187
+1,3680,07-08-2019,moxifloxacin and erythromycin,403,232
+18,590,09-02-2020,cidofovir and ribavirin,589,300
+13,2430,30-11-2019,ibuprofen and acetaminophen,345,176
+14,1270,01-08-2019,warfarin aspirin and aggrenox,27,50
+6,1140,13-09-2019,tamiflu and relenza,834,119
+13,820,23-08-2019,azithromycin and ceftriaxone,329,18
+19,2410,05-11-2019,moxifloxacin and erythromycin,899,265
+20,2480,05-06-2019,tamiflu and relenza,869,66
+12,1850,25-12-2019,acyclovir and privigen,129,96
+17,2350,09-02-2020,cetirizine,65,208
+18,380,12-06-2019,cetirizine,450,70
+5,3300,30-07-2019,cetirizine,197,72
+6,1890,17-06-2019,acyclovir and privigen,815,185
+15,3370,20-05-2019,ibuprofen,294,234
+10,2110,28-12-2019,azithromycin and ceftriaxone,390,63
+7,640,08-01-2020,azithromycin and doxycycline,292,196
+17,2980,29-10-2019,cetirizine,510,40
+3,3310,16-02-2020,permethrin cream and crotamiton,546,139
+10,3040,23-01-2020,ursodiol,558,53
+19,480,24-04-2019,azithromycin and doxycycline,885,378
+7,3840,14-07-2019,ibuprofen and acetaminophen,807,282
+6,540,06-12-2019,gamastan s/d,775,86
+7,3060,19-09-2019,cidofovir and ribavirin,814,124
+1,1410,10-12-2019,acyclovir and privigen,349,348
+11,150,31-12-2019,paracetamol,803,311
+12,110,03-07-2019,moxifloxacin and erythromycin,220,282
+10,260,10-06-2019,ursodiol,819,244
+8,2880,29-02-2020,gamastan s/d,645,158
+14,1350,11-04-2020,ibuprofen,748,389
+7,3190,11-10-2019,ibuprofen,865,242
+10,1230,01-02-2020,ibuprofen,222,280
+1,4110,23-06-2019,permethrin cream and crotamiton,380,150
+2,630,01-12-2019,warfarin aspirin and aggrenox,360,284
+19,1930,03-04-2020,ursodiol,571,68
+2,4870,28-07-2019,acyclovir and privigen,60,105
+15,1660,23-06-2019,moxifloxacin and erythromycin,738,356
+5,3240,16-11-2019,ibuprofen,824,338
+4,760,12-04-2020,permethrin cream and crotamiton,897,155
+18,3120,17-03-2020,azithromycin and ceftriaxone,199,202
+2,2190,17-07-2019,ibuprofen,688,96
+16,2450,05-11-2019,azithromycin and ceftriaxone,498,19
+7,860,04-05-2019,cidofovir and ribavirin,34,59
+14,4560,02-04-2020,paracetamol,308,229
+13,770,30-11-2019,paracetamol,977,237
+6,1800,13-07-2019,gamastan s/d,73,183
+8,510,19-12-2019,cetirizine,749,290
+5,3520,15-11-2019,permethrin cream and crotamiton,798,17
+2,3530,30-12-2019,cidofovir and ribavirin,278,223
+5,1260,05-02-2020,ursodiol,908,71
+20,4500,22-07-2019,cidofovir and ribavirin,548,261
+16,2370,25-02-2020,azithromycin and doxycycline,99,385
+7,2040,21-07-2019,azithromycin and ceftriaxone,351,39
+3,4400,09-07-2019,paracetamol,446,183
+16,4660,10-02-2020,cetirizine,284,179
+6,1190,21-04-2020,azithromycin and ceftriaxone,95,195
+13,3600,30-01-2020,gamastan s/d,475,88
+3,4340,29-05-2019,permethrin cream and crotamiton,774,150
+9,260,03-12-2019,permethrin cream and crotamiton,236,308
+14,2640,16-01-2020,ibuprofen,108,112
+5,4040,28-05-2019,azithromycin and ceftriaxone,582,288
+16,3960,24-01-2020,paracetamol,35,377
+12,240,26-08-2019,ibuprofen and acetaminophen,673,290
+9,3250,31-08-2019,ibuprofen,660,92
+13,4880,24-01-2020,ibuprofen,255,173
+11,2120,14-11-2019,tamiflu and relenza,377,46
+15,2000,08-08-2019,ibuprofen,651,27
+3,2970,28-09-2019,azithromycin and ceftriaxone,725,34
+6,4240,30-12-2019,cetirizine,819,195
+5,2720,10-04-2020,paracetamol,30,341
+6,4900,14-08-2019,ibuprofen,834,158
+13,2030,17-01-2020,azithromycin and ceftriaxone,157,340
+9,1280,23-05-2019,ursodiol,679,225
+19,700,04-07-2019,paracetamol,595,21
+14,4990,11-02-2020,moxifloxacin and erythromycin,847,203
+20,3580,26-11-2019,azithromycin and doxycycline,434,335
+5,930,24-02-2020,ibuprofen,120,284
+14,4780,17-02-2020,ursodiol,686,66
+9,1140,30-12-2019,paracetamol,36,46
+1,790,23-04-2020,permethrin cream and crotamiton,990,112
+18,4280,18-08-2019,permethrin cream and crotamiton,611,2
+2,3680,17-07-2019,tamiflu and relenza,340,189
+9,2110,16-09-2019,azithromycin and ceftriaxone,55,51
+2,1300,16-05-2019,azithromycin and doxycycline,152,241
+15,2940,05-08-2019,cetirizine,188,381
+5,4920,11-09-2019,ibuprofen,323,192
+5,2010,20-11-2019,moxifloxacin and erythromycin,736,184
+5,3950,16-01-2020,cetirizine,829,54
+11,1500,30-03-2020,paracetamol,289,52
+3,1820,10-02-2020,ursodiol,495,350
+16,4900,01-11-2019,ibuprofen and acetaminophen,413,116
+11,4920,11-07-2019,acyclovir and privigen,254,205
+13,830,28-09-2019,acyclovir and privigen,806,237
+13,4420,12-07-2019,acyclovir and privigen,705,50
+20,2620,21-05-2019,azithromycin and doxycycline,981,101
+18,1850,15-07-2019,ibuprofen,383,70
+18,3310,13-11-2019,gamastan s/d,288,241
+16,620,25-08-2019,ursodiol,620,256
+10,1360,15-09-2019,acyclovir and privigen,404,297
+18,3540,04-09-2019,azithromycin and doxycycline,5,68
+13,1010,16-08-2019,ibuprofen and acetaminophen,985,246
+19,4910,27-07-2019,warfarin aspirin and aggrenox,639,173
+13,1300,05-11-2019,azithromycin and ceftriaxone,223,113
+15,2310,02-09-2019,acyclovir and privigen,746,299
+11,2960,23-04-2020,tamiflu and relenza,641,309
+1,1470,26-02-2020,ibuprofen,790,38
+10,3990,09-04-2020,ibuprofen,18,131
+17,2790,22-08-2019,ibuprofen,540,275
+20,1080,20-07-2019,warfarin aspirin and aggrenox,139,333
+5,2170,21-11-2019,cetirizine,420,192
+1,4130,22-02-2020,cidofovir and ribavirin,34,147
+19,2360,04-04-2020,ursodiol,424,323
+12,3050,18-11-2019,paracetamol,231,373
+2,790,31-12-2019,ibuprofen,608,100
+11,950,04-08-2019,warfarin aspirin and aggrenox,421,341
+3,1490,02-03-2020,paracetamol,153,208
+16,490,02-08-2019,azithromycin and doxycycline,242,104
+5,1340,13-01-2020,cetirizine,494,93
+20,220,06-04-2020,cetirizine,303,190
+20,2280,21-10-2019,ibuprofen,478,102
+19,1880,04-06-2019,ibuprofen and acetaminophen,148,236
+10,3350,03-03-2020,azithromycin and ceftriaxone,622,223
+6,1400,25-07-2019,cidofovir and ribavirin,78,386
+4,250,07-02-2020,azithromycin and doxycycline,315,118
+18,3200,30-03-2020,cetirizine,816,337
+14,1870,17-03-2020,azithromycin and doxycycline,491,52
+5,520,01-09-2019,acyclovir and privigen,385,119
+19,1510,28-02-2020,ibuprofen,290,306
+13,1330,12-05-2019,paracetamol,550,137
+2,4730,17-09-2019,ibuprofen,484,141
+20,4470,08-09-2019,gamastan s/d,665,389
+18,1920,09-06-2019,warfarin aspirin and aggrenox,114,350
+3,2150,03-03-2020,azithromycin and doxycycline,711,19
+18,1270,22-06-2019,azithromycin and ceftriaxone,2,104
+15,2860,17-10-2019,cetirizine,861,210
+6,130,21-07-2019,gamastan s/d,858,262
+3,2910,15-11-2019,tamiflu and relenza,855,22
+10,290,10-10-2019,ibuprofen,540,175
+8,1810,24-02-2020,cidofovir and ribavirin,151,400
+9,2670,25-01-2020,gamastan s/d,160,31
+14,4670,15-06-2019,moxifloxacin and erythromycin,728,378
+9,3900,26-10-2019,acyclovir and privigen,356,359
+18,1470,21-04-2020,azithromycin and ceftriaxone,854,355
+7,4930,17-09-2019,moxifloxacin and erythromycin,513,328
+5,1620,06-03-2020,azithromycin and doxycycline,885,124
+14,2000,22-07-2019,ibuprofen,779,11
+18,4460,30-09-2019,tamiflu and relenza,148,252
+19,4920,28-04-2019,paracetamol,383,269
+20,1940,07-03-2020,gamastan s/d,729,344
+3,2180,15-09-2019,ibuprofen,628,115
+3,3240,28-03-2020,ibuprofen,341,387
+17,4750,12-01-2020,paracetamol,759,270
+16,1630,30-01-2020,gamastan s/d,615,282
+5,450,21-04-2020,gamastan s/d,768,276
+18,4320,27-04-2019,permethrin cream and crotamiton,240,122
+14,890,07-10-2019,gamastan s/d,852,370
+8,2140,08-03-2020,ibuprofen,904,348
+12,3790,01-06-2019,moxifloxacin and erythromycin,385,88
+6,2330,22-09-2019,ursodiol,271,368
+4,3250,31-05-2019,ursodiol,97,187
+17,3240,29-02-2020,azithromycin and ceftriaxone,300,123
+4,3020,08-12-2019,acyclovir and privigen,653,346
+13,880,08-08-2019,paracetamol,593,148
+3,2640,27-12-2019,ibuprofen,390,311
+16,2870,17-03-2020,warfarin aspirin and aggrenox,575,185
+13,2380,09-03-2020,azithromycin and ceftriaxone,951,382
+20,2070,06-09-2019,cetirizine,908,184
+7,1560,17-02-2020,cetirizine,739,9
+8,610,17-12-2019,moxifloxacin and erythromycin,332,196
+14,260,10-10-2019,cetirizine,592,198
+14,2900,28-09-2019,cidofovir and ribavirin,375,182
+20,4690,19-12-2019,ibuprofen and acetaminophen,11,205
+20,4500,21-04-2020,ibuprofen and acetaminophen,812,264
+9,2980,14-03-2020,acyclovir and privigen,117,137
+5,980,03-02-2020,ibuprofen,789,192
+2,2330,10-07-2019,cidofovir and ribavirin,969,288
+6,280,23-01-2020,moxifloxacin and erythromycin,896,52
+2,1680,24-12-2019,cetirizine,624,241
+19,2070,17-10-2019,ibuprofen,13,347
+14,3550,14-05-2019,tamiflu and relenza,311,54
+9,1160,28-04-2019,cetirizine,217,275
+11,250,30-08-2019,acyclovir and privigen,374,297
+3,3670,01-10-2019,permethrin cream and crotamiton,553,59
+7,1560,03-08-2019,ibuprofen and acetaminophen,740,52
+10,1230,16-01-2020,paracetamol,443,115
+14,1830,28-07-2019,ibuprofen,646,197
+9,280,11-05-2019,paracetamol,705,213
+3,4880,30-10-2019,ibuprofen,897,347
+12,4270,30-10-2019,ursodiol,683,106
+11,2360,11-05-2019,cidofovir and ribavirin,131,56
+16,1110,29-01-2020,gamastan s/d,629,52
+9,1280,06-01-2020,cidofovir and ribavirin,481,302
+10,1690,17-10-2019,ibuprofen,454,302
+11,4890,13-11-2019,gamastan s/d,151,244
+9,690,29-04-2019,gamastan s/d,604,93
+5,3580,15-08-2019,ibuprofen,893,238
+15,3080,17-02-2020,azithromycin and ceftriaxone,217,189
+13,1050,04-06-2019,moxifloxacin and erythromycin,688,55
+15,3120,19-03-2020,warfarin aspirin and aggrenox,933,58
+10,2160,11-12-2019,cidofovir and ribavirin,965,200
+17,960,07-09-2019,ibuprofen,269,156
+13,2090,27-05-2019,permethrin cream and crotamiton,839,32
+1,4560,17-07-2019,ibuprofen,336,272
+7,3460,05-10-2019,paracetamol,919,268
+10,4140,14-05-2019,acyclovir and privigen,800,345
+14,3260,14-04-2020,ibuprofen,40,226
+7,2040,25-10-2019,acyclovir and privigen,65,346
+15,4140,09-02-2020,cidofovir and ribavirin,541,64
+18,1800,05-08-2019,tamiflu and relenza,65,260
+7,2920,19-01-2020,acyclovir and privigen,999,14
+16,1470,02-05-2019,ibuprofen,766,257
+20,1330,30-12-2019,ibuprofen and acetaminophen,38,274
+5,1350,08-03-2020,cetirizine,625,304
+4,1630,15-06-2019,ursodiol,146,199
+14,1560,08-01-2020,ibuprofen and acetaminophen,187,192
+7,2260,06-07-2019,gamastan s/d,175,209
+8,4790,19-02-2020,cetirizine,992,370
+14,120,19-02-2020,azithromycin and doxycycline,825,112
+12,1970,19-10-2019,azithromycin and ceftriaxone,836,101
+19,3160,04-01-2020,warfarin aspirin and aggrenox,485,16
+11,4930,01-02-2020,azithromycin and doxycycline,244,15
+1,1760,03-05-2019,acyclovir and privigen,660,279
+11,4550,09-05-2019,acyclovir and privigen,559,195
+13,4390,20-01-2020,ibuprofen and acetaminophen,499,169
+3,660,24-02-2020,warfarin aspirin and aggrenox,720,317
+6,2480,28-09-2019,acyclovir and privigen,948,26
+16,4860,10-02-2020,warfarin aspirin and aggrenox,2,260
+5,260,18-08-2019,ursodiol,199,178
+12,2760,22-11-2019,warfarin aspirin and aggrenox,124,49
+16,350,24-06-2019,gamastan s/d,412,334
+19,4900,18-07-2019,azithromycin and doxycycline,662,24
+10,2700,16-09-2019,paracetamol,58,72
+5,2010,24-08-2019,gamastan s/d,573,271
+10,4130,17-08-2019,gamastan s/d,649,35
+1,1970,04-06-2019,warfarin aspirin and aggrenox,217,24
+2,3430,15-08-2019,ibuprofen,202,60
+18,2400,16-08-2019,azithromycin and ceftriaxone,379,355
+8,3210,29-04-2019,paracetamol,51,263
+18,1730,07-03-2020,cetirizine,432,255
+4,4030,15-11-2019,ursodiol,751,3
+13,1580,30-01-2020,cidofovir and ribavirin,646,381
+13,410,08-06-2019,gamastan s/d,339,224
+18,4150,02-05-2019,ibuprofen,293,138
+4,2740,14-01-2020,ibuprofen,406,377
+14,3320,21-11-2019,ibuprofen,747,377
+3,1390,18-11-2019,ibuprofen,839,157
+15,3530,12-05-2019,gamastan s/d,196,99
+9,2540,23-03-2020,warfarin aspirin and aggrenox,129,236
+1,1400,07-12-2019,cetirizine,941,248
+7,2850,27-07-2019,ibuprofen,697,373
+12,390,06-12-2019,azithromycin and ceftriaxone,712,115
+11,2250,27-10-2019,azithromycin and ceftriaxone,197,289
+19,3610,16-09-2019,acyclovir and privigen,338,91
+20,3220,22-05-2019,acyclovir and privigen,685,191
+7,1860,04-11-2019,permethrin cream and crotamiton,866,296
+12,1800,02-05-2019,tamiflu and relenza,208,242
+11,3900,30-06-2019,azithromycin and doxycycline,538,58
+2,4840,16-07-2019,acyclovir and privigen,41,92
+20,260,23-08-2019,azithromycin and doxycycline,507,138
+10,4470,28-12-2019,permethrin cream and crotamiton,494,360
+3,3220,17-02-2020,ibuprofen,380,347
+2,2410,17-03-2020,cidofovir and ribavirin,250,97
+19,1990,21-09-2019,permethrin cream and crotamiton,990,45
+15,3660,11-02-2020,moxifloxacin and erythromycin,976,156
+19,230,19-11-2019,azithromycin and doxycycline,82,190
+8,2450,05-07-2019,permethrin cream and crotamiton,355,369
+18,2340,03-11-2019,azithromycin and ceftriaxone,983,379
+16,2150,04-08-2019,azithromycin and ceftriaxone,419,121
+5,3900,25-04-2019,ibuprofen,24,393
+12,530,15-12-2019,moxifloxacin and erythromycin,218,186
+5,3120,25-02-2020,azithromycin and doxycycline,151,66
+12,880,18-04-2020,ibuprofen and acetaminophen,274,134
+11,600,25-02-2020,ursodiol,406,264
+5,440,18-04-2020,ibuprofen and acetaminophen,789,348
+17,3540,28-03-2020,warfarin aspirin and aggrenox,244,235
+1,3140,03-01-2020,cidofovir and ribavirin,939,87
+3,4040,08-01-2020,moxifloxacin and erythromycin,153,8
+5,560,18-05-2019,ibuprofen,156,233
+13,3030,18-04-2020,cidofovir and ribavirin,289,284
+8,1220,12-07-2019,azithromycin and ceftriaxone,2,378
+3,890,30-01-2020,ibuprofen,416,171
+15,2790,31-05-2019,moxifloxacin and erythromycin,54,293
+6,860,03-03-2020,permethrin cream and crotamiton,710,379
+11,1210,14-08-2019,ibuprofen,275,107
+11,2890,20-03-2020,tamiflu and relenza,347,165
+12,3770,17-11-2019,acyclovir and privigen,532,309
+18,4780,14-11-2019,ibuprofen and acetaminophen,283,328
+20,350,20-07-2019,cidofovir and ribavirin,855,35
+4,570,12-02-2020,ibuprofen,419,102
+11,2670,19-06-2019,ibuprofen and acetaminophen,790,340
+16,4070,13-03-2020,gamastan s/d,639,31
+4,3620,13-10-2019,gamastan s/d,790,255
+13,2490,03-04-2020,ibuprofen,46,113
+8,2830,16-03-2020,azithromycin and ceftriaxone,921,146
+20,290,22-08-2019,paracetamol,176,241
+11,3840,13-11-2019,ibuprofen and acetaminophen,438,194
+15,210,03-11-2019,permethrin cream and crotamiton,22,389
+20,2640,04-05-2019,permethrin cream and crotamiton,940,100
+3,4720,10-02-2020,paracetamol,695,177
+14,1060,26-05-2019,moxifloxacin and erythromycin,897,147
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
